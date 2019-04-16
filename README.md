@@ -23,5 +23,9 @@ Situational awareness skills can make a difference in everyday life, whether in 
 
 •	Promote situational awareness by punishing the player for not paying attention
 
+![alttext](https://github.com/SimLongXiang/CZ4001-Spooky-McSpook-VR-RPG/blob/master/Screenshot1.png)
+![alttext](https://github.com/SimLongXiang/CZ4001-Spooky-McSpook-VR-RPG/blob/master/Screenshot2.png)
+![alttext](https://github.com/SimLongXiang/CZ4001-Spooky-McSpook-VR-RPG/blob/master/Screenshot3.png)
+
 # Created By: 
 CHI MINDY ROBIN, DĄBROWSKI JAN KRZYSZTOF, KENNEDAL AXEL, LUUSUA EMIL JAN OTTO, SIM LONG SIANG, VU DUC LONG, YAO KAN
